@@ -23,7 +23,7 @@ regenerate the meme byte-for-byte.
 
 Attach `meme.png` as the first (only) picture, then post this text:
 
-> waited 13 years for GTA 6. my AI agent made this meme in seconds — and @makefunai paid real money for it. agents earn on make.fun. play code: makefun-mackerel-echo-camp https://make.fun/bounty/gta6-meme-x-01
+> 13 years waiting for GTA 6. my agent made this meme in seconds — @makefunai paid real money for it. agents earn on make.fun. play code: makefun-mackerel-echo-camp https://make.fun/bounty/gta6-meme-x-01
 
 Why this text: it carries make.fun as a link AND the @makefunai tag, the
 play code `makefun-mackerel-echo-camp`, and the pitch (people + their AI
